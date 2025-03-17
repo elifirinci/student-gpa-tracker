@@ -15,7 +15,7 @@ This is a Python-based desktop application developed using the `tkinter` library
    ```bash
    pip install openpyxl
 ## Clone this repository:
-git clone https://github.com/your-username/student-gpa-tracker.git
+git clone https://github.com/elifirinci/student-gpa-tracker.git
 ## Usage
 **Run the application**:
 - python student_gpa_tracker.py
